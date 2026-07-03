@@ -69,7 +69,8 @@ The analysis includes:
 •	Boxplots
 •	Histograms
 ________________________________________
-3. Data Preprocessing
+3. Data Preprocessing:
+   
 The dataset is preprocessed to improve model performance.
 Missing Values
 Missing values are detected and handled appropriately.
